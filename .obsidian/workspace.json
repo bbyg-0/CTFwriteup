@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/reverseengineering/ASCIIFTW.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASCIIFTW"
+            }
+          },
+          {
+            "id": "bc0bfdee4410c8ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/ASCIIFTW.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASCIIFTW"
+            }
+          },
+          {
+            "id": "04dc6767de6cfe19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Bit-O-Asm 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Bit-O-Asm 1"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Bit-O-Asm 1"
             }
           },
           {
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Bit-O-Asm 1"
             }
           }
         ]
@@ -168,6 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f60302ec2471b2de",
-  "lastOpenFiles": []
+  "active": "c15f796489bd7e15",
+  "lastOpenFiles": [
+    "picoCTF/reverseengineering/ASCIIFTW.md",
+    "picoCTF/reverseengineering/Bit-O-Asm 1.md",
+    "picoCTF/reverseengineering/asm1.md",
+    "README.md"
+  ]
 }
