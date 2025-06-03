@@ -48,9 +48,93 @@
               "icon": "lucide-file",
               "title": "Bit-O-Asm 1"
             }
+          },
+          {
+            "id": "f95e476a4b21c5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/VaultDoor1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VaultDoor1"
+            }
+          },
+          {
+            "id": "64af4e7a50a58e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/VaultDoor3.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VaultDoor3"
+            }
+          },
+          {
+            "id": "2829585332ed29cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/VaultDoor4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VaultDoor4"
+            }
+          },
+          {
+            "id": "1cfcf9c93817dcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/VaultDoor5.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VaultDoor5"
+            }
+          },
+          {
+            "id": "f76cf97b3642454e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/VaultDoor6.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VaultDoor6"
+            }
+          },
+          {
+            "id": "e90996421fe2be3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/reverseengineering/bloat.py.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bloat.py"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
+                "file": "picoCTF/reverseengineering/bloat.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bit-O-Asm 1"
+              "title": "Backlinks for bloat.py"
             }
           },
           {
@@ -142,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
+                "file": "picoCTF/reverseengineering/bloat.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bit-O-Asm 1"
+              "title": "Outgoing links from bloat.py"
             }
           },
           {
@@ -171,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/reverseengineering/Bit-O-Asm 1.md",
+                "file": "picoCTF/reverseengineering/bloat.py.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bit-O-Asm 1"
+              "title": "Outline of bloat.py"
             }
           }
         ]
@@ -199,8 +283,14 @@
   },
   "active": "c15f796489bd7e15",
   "lastOpenFiles": [
-    "picoCTF/reverseengineering/ASCIIFTW.md",
+    "picoCTF/reverseengineering/VaultDoor6.md",
+    "picoCTF/reverseengineering/bloat.py.md",
+    "picoCTF/reverseengineering/VaultDoor5.md",
+    "picoCTF/reverseengineering/VaultDoor4.md",
+    "picoCTF/reverseengineering/VaultDoor3.md",
+    "picoCTF/reverseengineering/VaultDoor1.md",
     "picoCTF/reverseengineering/Bit-O-Asm 1.md",
+    "picoCTF/reverseengineering/ASCIIFTW.md",
     "picoCTF/reverseengineering/asm1.md",
     "README.md"
   ]
